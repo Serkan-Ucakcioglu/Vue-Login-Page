@@ -11,7 +11,7 @@
         <div class="avatar">
           <img src="../assets/photo_2022-03-01_11-02-04.jpg" alt="" />
         </div>
-        <form action="">
+        <form action="" @submit.prevent>
           <ul>
             <li>
               <label class="title" for="username">Username</label>
