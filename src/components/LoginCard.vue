@@ -80,7 +80,7 @@ body {
 
 .component {
   &--login {
-    $primary-color: #556ee6;
+    $primary-color: #214247;
     width: 451px;
     margin: 0 15px;
 
@@ -115,6 +115,8 @@ body {
           position: relative;
           top: -24px;
           margin-bottom: 8px;
+          display: flex;
+          justify-content: flex-start;
 
           img {
             border: 3px solid #f8f8fb;
@@ -138,6 +140,7 @@ body {
               font-size: 13px;
               font-weight: 500;
               margin-bottom: 8px;
+              text-align: left;
             }
 
             input {
@@ -199,7 +202,7 @@ body {
             button {
               height: 36px;
               border-radius: 4px;
-              background: $primary-color;
+              background:  #008CBA;
               color: #fff;
               width: 100%;
               cursor: pointer;
@@ -207,7 +210,7 @@ body {
               transition: 300ms background-color;
 
               &:hover {
-                background: darken($primary-color, 5%);
+                background:  #05546e ;
               }
             }
 

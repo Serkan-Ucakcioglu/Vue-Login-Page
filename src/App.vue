@@ -19,6 +19,8 @@ import LoginCard from "./components/LoginCard.vue";
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
 }
 </style>
