@@ -95,7 +95,7 @@ body {
         background: rgba($primary-color, 0.25) no-repeat right;
         height: 112px;
         padding: 24px;
-        color: $primary-color;
+        color: black;
 
         h5 {
           font-size: 16px;
