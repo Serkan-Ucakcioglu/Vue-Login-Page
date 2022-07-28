@@ -45,7 +45,6 @@
     </div>
     <div class="login-text">
       <p>Don't have an account ? <a href="#">Signup now</a></p>
-      <p>&copy; 2020 Crafted and designed by 10ursabanoglu. ?</p>
     </div>
   </div>
 </template>
